@@ -2,34 +2,17 @@
 
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://en.wikipedia.org/wiki/MIT_License)
-[![Build Status](https://travis-ci.org/genedelisa/UpdateFramesProblem.svg)](https://travis-ci.org/genedelisa/UpdateFramesProblem)
-[![GitHub tag](https://img.shields.io/github/tag/genedelisa/UpdateFramesProblem.svg)](https://github.com/genedelisa/UpdateFramesProblem/)
-[![GitHub release](https://img.shields.io/github/release/genedelisa/UpdateFramesProblem.svg)](https://github.com/genedelisa/UpdateFramesProblem/)
 [![Swift 2](https://img.shields.io/badge/swift2-compatible-4BC51D.svg?style=flat")](https://developer.apple.com/swift)
 
 
-An example using
+The Xcode 7.3 problem with StackViews.
 
+There is no code causing problems. This is just a few labels in stackviews inside the storyboard.
 
-## Blog post for this example.
+Update frames does not work.
 
-[Blog post](http://www.rockhoppertech.com/blog/)
+Take a look at the constraints. They are valid.
 
-
-## Bugs
-
-
-[![GitHub issues](https://img.shields.io/github/issues/genedelisa/UpdateFramesProblem.svg)](https://github.com/genedelisa/UpdateFramesProblem/issues)
-
-If you find one, [please add it to issues](https://github.com/genedelisa/UpdateFramesProblem/issues)
-
-
-
-### Buy my kitty Giacomo some cat food
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=F5KE9Z29MH8YQ&bnP-DonationsBF:btn_donate_SM.gif:NonHosted)
-
-<img src="http://www.rockhoppertech.com/blog/wp-content/uploads/2015/05/IMG_0657.png" alt="Giacomo Kitty" width="400" height="300">
 
 ## Licensing
 
